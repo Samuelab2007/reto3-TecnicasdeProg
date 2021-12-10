@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//Realizado por: Samuel Acevedo Bustamante(1001016099)
+
 public class reto3 {
 
     static float maximo(float[] arraycomparacion){
